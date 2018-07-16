@@ -9,7 +9,7 @@ html {
 }
 
 /* Write your solution here */
-@media only screen and (max-width: 1108px){
-  .wrapper{
+@media only screen and (min-width: 1196px){
+  #bear{
     width: 90%;
   }
